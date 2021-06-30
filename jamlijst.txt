@@ -5,3 +5,4 @@
 -Hans 1 aardbeienjam, 1 meloenenjam, 1 bosvruchtenjam
 -Jesse 2 aardbeienjam
 -Bruce 2 aardbeienjam
+-Tadao 2 aardbeienjam
