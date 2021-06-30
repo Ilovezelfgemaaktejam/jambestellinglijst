@@ -3,5 +3,5 @@
 -Martijn 1 aardbeienjam, 1 bosvruchtenjam
 -Dorien 1 aardbeienjam
 -Hans 1 aardbeienjam, 1 meloenenjam, 1 bosvruchtenjam
--Jesse 1 aardbeienjam
+-Jesse 2 aardbeienjam
 -Bruce 2 aardbeienjam
