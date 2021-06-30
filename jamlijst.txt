@@ -1,8 +1,10 @@
--Ruben 1 mandarijnenjam, 1 mangojam
+-Ruben 1 mandarijnenjam, 1 mangojam, bod: €5
 -Senna 1 aardbeienjam
 -Martijn 1 aardbeienjam, 1 bosvruchtenjam
 -Dorien 1 aardbeienjam
 -Hans 1 aardbeienjam, 1 meloenenjam, 1 bosvruchtenjam
--Jesse 2 aardbeienjam
--Bruce 2 aardbeienjam
+-Jesse 2 aardbeienjam, bod: €5
+-Bruce 2 aardbeienjam, bod: €5
 -Tadao 2 aardbeienjam
+
+Potten na gebruik graag retour.
